@@ -69,7 +69,7 @@ const HeroSection = () => {
               <div className="w-80 h-80 rounded-3xl bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center glow-accent" style={{ animation: "float 6s ease-in-out infinite" }}>
                 <div className="w-60 h-60 rounded-2xl glass-card overflow-hidden">
                     <img 
-                      src="../../assets/profile.jpeg" 
+                      src="./images/profile.jpeg" 
                       alt="Rida Mouden"
                       className="w-full h-full object-cover"
                     />

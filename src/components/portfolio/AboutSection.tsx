@@ -10,7 +10,7 @@ const AboutSection = () => (
             <div className="w-56 h-56 md:w-64 md:h-64 rounded-2xl glass-card flex items-center justify-center">
   <div className="w-60 h-60 rounded-2xl glass-card overflow-hidden">
                     <img 
-                      src="../../assets/profile2.jpeg" 
+                      src="@/assets/profile2.jpeg" 
                       alt="Rida Mouden"
                       className="w-full h-full object-cover"
                     />
