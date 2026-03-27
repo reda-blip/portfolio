@@ -4,21 +4,21 @@ const projects = [
     description: "Full-featured e-commerce platform with real-time inventory, payment processing, and admin dashboard.",
     tech: ["React", "Laravel", "MySQL", "Tailwind CSS", "Redux", "Stripe API", "Docker", "Node.js"],
     color: "from-primary/20 to-primary/5",
-    image: "/images/project1.png", 
+    image: "../../assets/project1.png", 
   },
   {
     title: "Online Medical Appointment Platform",
     description: "A user-friendly platform for booking and managing medical appointments online, exploring doctors’ profiles, and finding nearby hospitals with ease.",
     tech: ["Node.js", "Angular", "Spring Boot", "MongoDB", "Bootstrap", "Docker"],
     color: "from-primary/10 to-primary/20",
-    image: "/images/project2.png",
+    image: "../../assets/project2.png",
   },
   {
     title: "Email Marketing Campaign Management (Freelance)",
     description: "Gestion complète de campagnes d’email marketing en collaboration avec des sponsors : création de templates HTML responsives, préparation et nettoyage des bases de données, envoi via SMTP et optimisation de la délivrabilité. Analyse des performances (open rate, click rate) pour améliorer l’engagement et réduire le spam.",
     tech: ["SMTP", "Thunderbird", "HTML/CSS", "Data Cleaning", "Email Testing Tools"],
     color: "from-primary/15 to-secondary",
-    image: "/images/project3.png",
+    image: "../../assets/project3.png",
 
   },
   
