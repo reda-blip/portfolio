@@ -36,7 +36,7 @@ const HeroSection = () => {
                 Hire Me
               </a>
               <a
-                href="/files/Rida_Mouden_CV.pdf"
+                href="./files/Rida_Mouden_CV.pdf"
                 download="Rida_Mouden_CV.pdf"
                 className="px-8 py-3.5 rounded-2xl font-semibold text-sm border border-border text-foreground hover:border-primary/50 hover:text-primary transition-all duration-300"
                >
